@@ -1,0 +1,6 @@
+{
+  "name": "华为数据存储新春发布会",
+  "description": "华为数据存储新春发布会官方落地页 - 数据觉醒，存力跃迁",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
